@@ -1,0 +1,26 @@
+body{
+    background-color:rgb(192, 208, 255);
+    }
+h1{
+    text-align: center;
+    color: aliceblue;}
+div img{
+    height: 300px;
+ width: 300px;
+
+}
+#daVid{
+    border-radius: 50%;
+}
+#Kristina
+{
+    border-radius: 50%;  
+}
+#stephen{
+    border-radius: 50%;  
+}
+.childDiv{
+    background-color: white;
+    float: left;
+    margin-left: 15px;
+}

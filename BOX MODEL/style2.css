@@ -1,0 +1,12 @@
+ul li:first-child{
+    color: rgb(0, 255, 221);
+    list-style-type: disc;
+    text-size-adjust: 1px;
+}
+div{
+    background-color: rgb(96, 113, 244);
+}
+p{
+    text-decoration: underline;
+    color: red;
+}
